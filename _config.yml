@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -125,3 +126,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+=======
+theme: jekyll-theme-slate
+>>>>>>> 934c032279dd0b2ae0a30521d8ca3719fa664df9
