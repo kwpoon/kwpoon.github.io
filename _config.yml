@@ -101,10 +101,10 @@ content:
           I am responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
           and drinking in driving. Participated in the overall pipeline of algorithm development, including data collection, 
           data cleaning, algorithm development, and upgrading.
-        - video_path:
-          path1: images/DMS_smoke_demo1.mp4
-          path2: images/DMS_smoke_demo2.mp4
-          path3: images/DMS_phone_demo.mp4
+        video_path: images/DMS_smoke_demo1.mp4
+        video_path1: images/DMS_smoke_demo2.mp4
+        video_path2: images/DMS_phone_demo.mp4
+
       - layout: left
         title: NIO Gaze Estimation 
         caption: Jul. 2019 - Mar. 2020
@@ -113,6 +113,7 @@ content:
           I am responsible for designing a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure 
           and occlusion at the same time. Participated in the overall pipeline of algorithm development, including data collection, 
           data cleaning, algorithm development, and upgrading.
+        video_path: images/gaze_demo.mp4
             
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)

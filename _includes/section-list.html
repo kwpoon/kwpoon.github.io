@@ -25,12 +25,19 @@
     {%- endif -%}
     {{ item.description | strip | markdownify }}
     {%- if item.video_path -%}
-    {% for path in item.video_path %}
-    <video muted autoplay controls>
-      <source src="{{path}}" type="video/mp4">
-      <!-- <source src="/assets/images/lorenz.webm" type="video/webm"> -->
+    <video muted autoplay controls width="281" height="211">
+      <source src="{{item.video_path}}" type="video/mp4">
     </video>
-    {% endfor %}
+    {%- endif -%}
+    {%- if item.video_path1 -%}
+    <video muted autoplay controls width="281" height="211">
+      <source src="{{item.video_path1}}" type="video/mp4">
+    </video>
+    {%- endif -%}
+    {%- if item.video_path2 -%}
+    <video muted autoplay controls width="281" height="211">
+      <source src="{{item.video_path2}}" type="video/mp4">
+    </video>
     {%- endif -%}
   </div>
 </div>
