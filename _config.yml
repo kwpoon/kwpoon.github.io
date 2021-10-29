@@ -1,5 +1,5 @@
 # Site
-# repository: sproogen/resume-theme
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Hao Xu
-title: Computer Science & 3D Vision 
+title: 2D & 3D Vision 
 email: xuhao02@std.uestc.edu.cn
 website: hxwork.github.io
 
@@ -29,14 +29,14 @@ github_username:  hxwork
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
+# Additional icon links (https://fontawesome.com/icons?d=gallery&m=free)
 additional_links:
 - title: google scholar
   icon: fab fa-google
   url: https://scholar.google.com.hk/citations?user=M7qfdFwAAAAJ&hl=zh-CN&oi=sra
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: another link
+  icon: fas fa-envelope
+  url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=xuhao02@std.uestc.edu.cn
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,33 +48,36 @@ additional_links:
 about_title: Biography
 about_profile_image: images/white_bg.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a third-year graduate student of machine learning and computer vision under the supervision of [Prof.Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) 
-  and [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) at University of Electronic Science and Technology of China (UESTC). Meanwhile, I start my internship at Megvii Research since 2018. 
-  My research interests include 3D registration, 3D point cloud representation, 2D image processing, etc.
+  I am a third-year graduate student of machine learning and computer vision under the supervision of 
+  [Prof.Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
+  [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) at University of Electronic Science and Technology of China (UESTC). 
+  Meanwhile, I start my internship at Megvii Research since 2018. My research interests include 3D registration, 
+  3D point cloud representation, 2D image processing, etc.
+  
 content:
   - title: Education & Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Sichuan University
+        title: SCU
         # link: bmwgroup.com
         # link_text: bmwgroup.com
         # sub_title:  
-        caption: September 2015 - July 2019
+        caption: Sept. 2015 - Jul. 2019
         description: | # this will include new lines to allow paragraphs
             
-            ## **Bachelor of Electronic Information Engineering**
+            ## **BSc in Electronic Information Engineering**
             <mark>Thesis</mark> GAN-based image reflection removal.
             
             
       - layout: left
-        title: University of Electronic Science and Technology of China
+        title: UESTC
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: 
-        caption: September 2019 - Present
+        caption: Sept. 2019 - Present
         description: | # this will include new lines to allow paragraphs
-            ## **Master of Information and Communication Engineering**
+            ## **MEng in Information and Communication Engineering**
             <mark>Thesis</mark> Deep learning-based 3D point cloud registration.
             
       - layout: left
@@ -82,29 +85,30 @@ content:
         # link: www.msg.group
         # link_text: msg.group
         # sub_title: 
-        caption: December 2018 - Present
+        caption: Dec. 2018 - Present
         description: | # this will include new lines to allow paragraphs
           ## **Algorithm Researcher (Intern)**
-          <mark>Feilds</mark> behavior detection, gaze estimation and 3D point cloud registration.
+          <mark>Feilds</mark> Behavior detection, gaze estimation and 3D point cloud registration.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Driver Monitor System
-        caption: December 2018 - July 2019
+        caption: Dec. 2018 - Jul. 2019
         sub_title: Major member
         description: | # this will include new lines to allow paragraphs
           I am responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
           and drinking in driving. Participated in the overall pipeline of algorithm development, including data collection, 
           data cleaning, algorithm development, and upgrading.
+        video_path: images/DMS_smoke_demo1.mp4
       - layout: left
-        title: Gaze Estimation of NIO
-        caption: July 2019 - March 2020
+        title: NIO Gaze Estimation 
+        caption: Jul. 2019 - Mar. 2020
         sub_title: Major member
         description: | # this will include new lines to allow paragraphs
           I am responsible for designing a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure 
-          and occlusion at the same time.. Participated in the overall pipeline of algorithm development, including data collection, 
+          and occlusion at the same time. Participated in the overall pipeline of algorithm development, including data collection, 
           data cleaning, algorithm development, and upgrading.
             
   - title: Publications # Title for the section
@@ -113,33 +117,41 @@ content:
       - layout: left
         title: ICCV 2021
         # caption: 
-        sub_title: Accepted as a Poster paper
+        sub_title: <green_mark>Poster paper</green_mark>
         description: | # this will include new lines to allow paragraphs
           ## **OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration**
+          
+          **Hao Xu**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng 
+
+          ![OMNet](./images/OMNet.png)
           [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
           [Github: [Pytorch](https://github.com/hxwork/OMNet), [MegEngine](https://github.com/megvii-research/OMNet)]
           [Video: [Youtube](https://www.youtube.com/watch?v=u2lTKsom8oU), [Bilibili](https://www.bilibili.com/video/BV1Ef4y1J7XP/)]
           [BibTex]
+
+          ---
       - layout: left
         title: AAAI 2022
         # caption: 
-        sub_title: Under review
+        sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration**
+
+          **Hao Xu**, Nianjin Ye, Shuaicheng Liu, Guanghui Liu, Bing Zeng 
+
+          ![FINet](./images/FINet.png)
           [[PDF](https://arxiv.org/pdf/2106.03479.pdf)]
           [[Github](https://github.com/hxwork/FINet)]
           [Video: [Youtube], [Bilibili]]
           [BibTex]
 
-# Look at this cool image 
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -147,3 +159,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
