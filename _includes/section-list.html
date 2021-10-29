@@ -25,15 +25,12 @@
     {%- endif -%}
     {{ item.description | strip | markdownify }}
     {%- if item.video_path -%}
-    <!-- <video class="video-js vjs-default-skin" type="video/mp4" src="{{ item.video_path}}"></video> -->
-    <!-- <iframe width="640" height="480" src="{{ item.video_path}}" frameborder="0" allowfullscreen></iframe> -->
-    <!-- <video muted autoplay controls> -->
-    <!-- <source src="{{item.video_path}}" type="video/mp4"> -->
-    <!-- </video> -->
+    {% for path in item.video_path %}
     <video muted autoplay controls>
-      <source src="{{item.video_path}}" type="video/mp4">
+      <source src="{{path}}" type="video/mp4">
       <!-- <source src="/assets/images/lorenz.webm" type="video/webm"> -->
     </video>
+    {% endfor %}
     {%- endif -%}
   </div>
 </div>
