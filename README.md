@@ -1,4 +1,4 @@
-# hxwork.io  ![CI workflow](https://github.com/sproogen/modern-resume-theme/workflows/CI%20workflow/badge.svg?branch=master)
+# hxwork.io
 
 This is my homepage project.
 
