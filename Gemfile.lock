@@ -260,8 +260,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
+  jekyll-relative-links
   jekyll-spaceship
   tzinfo-data
 
 BUNDLED WITH
-   2.2.30
+   2.3.17

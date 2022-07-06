@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Hao Xu
-title: 2D & 3D Vision 
+name: Hao Xu (徐 昊)
+# title: 2D & 3D Vision 
 email: xuhao02@std.uestc.edu.cn
 website: hxwork.github.io
 
@@ -48,14 +48,15 @@ additional_links:
 about_title: Biography
 about_profile_image: images/white_bg.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a third-year graduate student of machine learning and computer vision under the supervision of 
-  [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
-  [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) at University of Electronic Science and Technology of China (UESTC). 
-  Meanwhile, I start my internship at Megvii Research since 2018. My research interests include 3D registration, 
-  3D point cloud representation, 2D image processing, etc.
+  I received my Master's degree at School of Information and Communication Engineering from the University of Electronic Science and Technology of China (UESTC)
+  , supervised by [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
+  [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/). Before that, I got my Bachelor's degree from the Sichuan University (SCU). My research interests include 3D registration and 
+  3D point cloud representation.
+
+  [[CV]](collections/CV/My_Resume.pdf)
   
 content:
-  - title: Education & Experience # Title for the section
+  - title: Education & Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
                 
@@ -64,92 +65,90 @@ content:
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: 
-        caption: Sept. 2019 - Present
+        caption: Sept. 2019 - June 2022
         description: | # this will include new lines to allow paragraphs
             ## **University of Electronic Science and Technology of China (UESTC)**
             Information and Communication Engineering <br />
-            <mark>Thesis</mark> Deep learning-based 3D point cloud registration.
 
       - layout: left
         title: B.E.
         # link: bmwgroup.com
         # link_text: bmwgroup.com
         # sub_title:  
-        caption: Sept. 2015 - Jul. 2019
+        caption: Sept. 2015 - June 2019
         description: | # this will include new lines to allow paragraphs
             
             ## **Sichuan University (SCU)**
-            Electronic Information Engineering <br />
-            <mark>Thesis</mark> GAN-based image reflection removal.            
+            Electronic Information Engineering <br />           
             
       - layout: left
         title: Internship
         # link: www.msg.group
         # link_text: msg.group
         # sub_title: 
-        caption: Dec. 2018 - Present
+        caption: Dec. 2018 - June 2022
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          Intern <br />
-          <mark>Feilds</mark> Behavior detection, gaze estimation and 3D point cloud registration.
+          Research Intern <br />
             
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
       - layout: left
-        title: ICCV 2021
+        title: 2022
         # caption: 
-        sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration**
-          
-          **Hao Xu**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng 
-
-          ![OMNet](./images/OMNet.png)
-          [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
-          [Github: [Pytorch](https://github.com/hxwork/OMNet), [MegEngine](https://github.com/megvii-research/OMNet)]
-          [Video: [Youtube](https://www.youtube.com/watch?v=u2lTKsom8oU), [Bilibili](https://www.bilibili.com/video/BV1Ef4y1J7XP/)]
-          [BibTex]
-
-      - layout: left
-        title: AAAI 2022
-        # caption: 
-        sub_title: <green_mark>Accepted</green_mark>
+        # sub_title: <green_mark>Accepted</green_mark>
         description: | # this will include new lines to allow paragraphs
           ## **FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration**
 
           **Hao Xu**, Nianjin Ye, Shuaicheng Liu, Guanghui Liu, Bing Zeng 
 
-          ![FINet](./images/FINet.png)
+          Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+
           [[PDF](https://arxiv.org/pdf/2106.03479.pdf)]
-          [[Github](https://github.com/hxwork/FINet)]
-          [Video: [Youtube], [Bilibili]]
-          [BibTex]
+          [Code: [Pytorch](https://github.com/hxwork/FINet_Pytorch), [MegEngine](https://github.com/MegEngine/FINet)]
+          [Video: [Youtube](https://www.youtube.com/watch?v=XDmE9iSx9WM), [Bilibili](https://www.bilibili.com/video/BV1z44y1s7up/)]
+          [[BibTex](collections/FINet/FINet.md)]
+
+      - layout: left
+        title: 2021
+        # caption: 
+        # sub_title: <green_mark>Accepted</green_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration**
+          
+          **Hao Xu**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng 
+
+          International Conference on Computer Vision (**ICCV**), 2021.
+
+          [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
+          [Code: [Pytorch](https://github.com/hxwork/OMNet_Pytorch), [MegEngine](https://github.com/MegEngine/OMNet)]
+          [Video: [Youtube](https://www.youtube.com/watch?v=u2lTKsom8oU), [Bilibili](https://www.bilibili.com/video/BV1Ef4y1J7XP/)]
+          [[BibTex](collections/OMNet/OMNet.md)]
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Driver Monitor System
-        caption: Dec. 2018 - Jul. 2019
-        sub_title: Major member
+        caption: Dec. 2018 - July 2019
+        # sub_title: Major member
         description: | # this will include new lines to allow paragraphs
-          I am responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
-          and drinking in driving. Participated in the overall pipeline of algorithm development, including data collection, 
-          data cleaning, algorithm development, and upgrading.
-        video_path: images/DMS_smoke_demo1.mp4
-        video_path1: images/DMS_smoke_demo2.mp4
-        video_path2: images/DMS_phone_demo.mp4
+          Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
+          and drinking in driving.
+        video_path: collections/DMS/DMS_smoke_demo1.mp4
+        video_path1: collections/DMS/DMS_smoke_demo2.mp4
+        video_path2: collections/DMS/DMS_phone_demo.mp4
 
       - layout: left
         title: NIO Gaze Estimation 
-        caption: Jul. 2019 - Mar. 2020
-        sub_title: Major member
+        caption: July 2019 - Mar. 2020
+        # sub_title: Major member
         description: | # this will include new lines to allow paragraphs
-          I am responsible for designing a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure 
-          and occlusion at the same time. Participated in the overall pipeline of algorithm development, including data collection, 
-          data cleaning, algorithm development, and upgrading.
-        video_path: images/gaze_demo.mp4
+          Design a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure 
+          and occlusion at the same time.
+        video_path: collections/Gaze/gaze_demo.mp4
 
 # Footer
 footer_show_references: true
@@ -165,6 +164,7 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-relative-links
 
 exclude : [
   "Gemfile",
