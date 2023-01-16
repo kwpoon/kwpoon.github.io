@@ -36,7 +36,7 @@ additional_links:
   url: https://scholar.google.com.hk/citations?user=M7qfdFwAAAAJ&hl=zh-CN&oi=sra
 - title: another link
   icon: fas fa-envelope
-  url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=xuhao02@std.uestc.edu.cn
+  url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=xuhao@cse.cuhk.edu.hk
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
