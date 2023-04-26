@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/). Before that, I got my Bachelor's degree from Sichuan University (SCU). 
   My research interests include 3D registration, 3D point cloud representation, and 3D hand mesh reconstruction.
 
-  [[CV]](collections/CV/My_Resume.pdf)
+  [[CV]](collections/CV/CV.pdf)
   
 content:
   - title: Education & Research Experience # Title for the section
@@ -66,7 +66,7 @@ content:
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: 
-        caption: Aug. 2022 - present
+        caption: Aug. 2022 - Present
         description: | # this will include new lines to allow paragraphs
             ## **The Chinese University of Hong Kong (CUHK)**
             Computer Science <br />
@@ -92,20 +92,35 @@ content:
             ## **Sichuan University (SCU)**
             Electronic Information Engineering <br />           
             
-      - layout: left
-        title: Internship
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
-        caption: Dec. 2018 - June 2022
-        description: | # this will include new lines to allow paragraphs
-          ## **Megvii Research**
-          Research Intern <br />
+      # - layout: left
+      #   title: Internship
+      #   # link: www.msg.group
+      #   # link_text: msg.group
+      #   # sub_title: 
+      #   caption: Dec. 2018 - June 2022
+      #   description: | # this will include new lines to allow paragraphs
+      #     ## **Megvii Research**
+      #     Research Intern <br />
             
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    
+      - layout: left
+          title: 2023
+          # caption: 
+          # sub_title: <green_mark>Accepted</green_mark>
+          description: | # this will include new lines to allow paragraphs
+            ## **H2ONet: Hand-Occlusion-and-Orientation-aware Network for Real-time 3D Hand Mesh Reconstruction**
+
+            **Hao Xu**, Tianyu Wang, Xiao Tang, Chi-Wing Fu 
+
+            IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023.
+
+            [[PDF](https://github.com/hxwork/H2ONet_Pytorch/blob/main/files/final_version.pdf)]
+            [Code: [Pytorch](https://github.com/hxwork/H2ONet_Pytorch)]
+            [Video: Coming soon]
+            [[BibTex](collections/H2ONet/H2ONet.md)]
+
       - layout: left
         title: 2022
         # caption: 
@@ -131,35 +146,35 @@ content:
           
           **Hao Xu**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng 
 
-          International Conference on Computer Vision (**ICCV**), 2021.
+          IEEE/CVF International Conference on Computer Vision (**ICCV**), 2021.
 
           [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
           [Code: [Pytorch](https://github.com/hxwork/OMNet_Pytorch), [MegEngine](https://github.com/MegEngine/OMNet)]
           [Video: [Youtube](https://www.youtube.com/watch?v=u2lTKsom8oU), [Bilibili](https://www.bilibili.com/video/BV1Ef4y1J7XP/)]
           [[BibTex](collections/OMNet/OMNet.md)]
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Driver Monitor System
-        caption: Dec. 2018 - July 2019
-        # sub_title: Major member
-        description: | # this will include new lines to allow paragraphs
-          Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
-          and drinking in driving.
-        video_path: collections/DMS/DMS_smoke_demo1.mp4
-        video_path1: collections/DMS/DMS_smoke_demo2.mp4
-        video_path2: collections/DMS/DMS_phone_demo.mp4
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Driver Monitor System
+  #       caption: Dec. 2018 - July 2019
+  #       # sub_title: Major member
+  #       description: | # this will include new lines to allow paragraphs
+  #         Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
+  #         and drinking in driving.
+  #       video_path: collections/DMS/DMS_smoke_demo1.mp4
+  #       video_path1: collections/DMS/DMS_smoke_demo2.mp4
+  #       video_path2: collections/DMS/DMS_phone_demo.mp4
 
-      - layout: left
-        title: NIO Gaze Estimation 
-        caption: July 2019 - Mar. 2020
-        # sub_title: Major member
-        description: | # this will include new lines to allow paragraphs
-          Design a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure 
-          and occlusion at the same time.
-        video_path: collections/Gaze/gaze_demo.mp4
+  #     - layout: left
+  #       title: NIO Gaze Estimation 
+  #       caption: July 2019 - Mar. 2020
+  #       # sub_title: Major member
+  #       description: | # this will include new lines to allow paragraphs
+  #         Design a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure 
+  #         and occlusion at the same time.
+  #       video_path: collections/Gaze/gaze_demo.mp4
 
 # Footer
 footer_show_references: true
