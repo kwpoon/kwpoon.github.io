@@ -106,20 +106,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: 2023
-          # caption: 
-          # sub_title: <green_mark>Accepted</green_mark>
-          description: | # this will include new lines to allow paragraphs
-            ## **H2ONet: Hand-Occlusion-and-Orientation-aware Network for Real-time 3D Hand Mesh Reconstruction**
+        title: 2023
+        # caption: 
+        # sub_title: <green_mark>Accepted</green_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **H2ONet: Hand-Occlusion-and-Orientation-aware Network for Real-time 3D Hand Mesh Reconstruction**
 
-            **Hao Xu**, Tianyu Wang, Xiao Tang, Chi-Wing Fu 
+          **Hao Xu**, Tianyu Wang, Xiao Tang, Chi-Wing Fu 
 
-            IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023.
+          IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023.
 
-            [[PDF](https://github.com/hxwork/H2ONet_Pytorch/blob/main/files/final_version.pdf)]
-            [Code: [Pytorch](https://github.com/hxwork/H2ONet_Pytorch)]
-            [Video: Coming soon]
-            [[BibTex](collections/H2ONet/H2ONet.md)]
+          [[PDF](https://github.com/hxwork/H2ONet_Pytorch/blob/main/files/final_version.pdf)]
+          [Code: [Pytorch](https://github.com/hxwork/H2ONet_Pytorch)]
+          [Video: Coming soon]
+          [[BibTex](collections/H2ONet/H2ONet.md)]
 
       - layout: left
         title: 2022
