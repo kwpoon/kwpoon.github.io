@@ -85,7 +85,7 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 
 # Experience
-- *2018.12-2022.06*, Intern, Megvii Research
+- *2018.12 - 2022.06*, Intern, Megvii Research
 
 
 <!-- # Academic Services
@@ -93,7 +93,8 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 - **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS) -->
 
 # Projects
-- **2018.12-2019.07, Driver Monitor System (DMS)**
+- *2018.12 - 2019.07, Driver Monitor System (DMS)*
+
 Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving.
 <div>
        <video src='collections/DMS/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
@@ -101,8 +102,9 @@ Design a light-weighted end-to-end network running on an onboard chip to detect 
        <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
 </div>
 
-- **2019.07-2020.03, NIO Gaze Estimation**
+- *2019.07 - 2020.03, NIO Gaze Estimation*
+
 Design a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure and occlusion at the same time.
 <div>
-       <video src='collections/Gaze/gaze_demo.mp4' controls="controls" width="100%" height="200px"></video>
+       <video src='collections/Gaze/gaze_demo.mp4' controls="controls" width="30%" height="200px"></video>
 </div>
