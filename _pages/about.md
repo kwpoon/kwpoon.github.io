@@ -105,6 +105,7 @@ Design a light-weighted end-to-end network running on an onboard chip to detect 
        <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
 </div>
 
+
 - *2019.07 - 2020.03, NIO Gaze Estimation*
 
 Design a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure and occlusion at the same time.
