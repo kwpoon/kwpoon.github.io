@@ -82,7 +82,7 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
         
 # Education 
-- *2022.08 - Present*, Ph.D., The Chinese University of Hong Kong (CUHK)
+- *2022.08 - Present*, Ph.D. candidate, The Chinese University of Hong Kong (CUHK)
 - *2019.09 - 2022.06*, M.Sc., University of Electronic Science and Technology of China (UESTC)
 - *2015.09 - 2019.06*, B.E., Sichuan University (SCU)
 
