@@ -23,7 +23,8 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 
 # News
-- *2023.03*: &nbsp; One paper is accepted by CVPR 2023.
+- *2023.07*: &nbsp; One paper is accepted to ICCV 2023.
+- *2023.03*: &nbsp; One paper is accepted to CVPR 2023.
 
 
 # Publications 
