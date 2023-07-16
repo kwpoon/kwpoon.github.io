@@ -32,6 +32,21 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 <!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_SIRA/SIRA.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration** 
+  
+*IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
+  
+Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* Joint first author)
+
+Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023_H2ONet/H2ONet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
