@@ -40,8 +40,7 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* Joint first author)
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://youtu.be/TJfONIn5p_k) \| [Code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](collections/2023_SIRA/SIRA.md) `<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'>``</strong>`
-
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://youtu.be/TJfONIn5p_k) \| [Code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](collections/2023_SIRA/SIRA.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -58,8 +57,7 @@ Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* 
 
 **Hao Xu**, Tianyu Wang, Xiao Tang, Chi-Wing Fu
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_H2ONet_Hand-Occlusion-and-Orientation-Aware_Network_for_Real-Time_3D_Hand_Mesh_Reconstruction_CVPR_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=JN-G8ePC3Mk) \| [Code](https://github.com/hxwork/H2ONet_Pytorch) \| [BibTex](collections/2023_H2ONet/H2ONet.md) `<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'>``</strong>`
-
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_H2ONet_Hand-Occlusion-and-Orientation-Aware_Network_for_Real-Time_3D_Hand_Mesh_Reconstruction_CVPR_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=JN-G8ePC3Mk) \| [Code](https://github.com/hxwork/H2ONet_Pytorch) \| [BibTex](collections/2023_H2ONet/H2ONet.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -78,8 +76,7 @@ Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* 
 
 **Hao Xu**, Nianjin Ye, Guanghui Liu, Bing Zeng, Shuaicheng Liu
 
-[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20189/19948) \| [Video](https://www.youtube.com/watch?v=XDmE9iSx9WM) \| [Code](https://github.com/hxwork/FINet_Pytorch) \| [BibTex](collections/2022_FINet/FINet.md) `<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'>``</strong>`
-
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20189/19948) \| [Video](https://www.youtube.com/watch?v=XDmE9iSx9WM) \| [Code](https://github.com/hxwork/FINet_Pytorch) \| [BibTex](collections/2022_FINet/FINet.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -98,10 +95,10 @@ Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* 
 
 **Hao Xu**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf) \| [Video](https://www.youtube.com/watch?v=u2lTKsom8oU) \| [Code](https://github.com/hxwork/OMNet_Pytorch) \| [BibTex](collections/2021_OMNet/OMNet.md) `<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'>``</strong>`
+[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf) \| [Video](https://www.youtube.com/watch?v=u2lTKsom8oU) \| [Code](https://github.com/hxwork/OMNet_Pytorch) \| [BibTex](collections/2021_OMNet/OMNet.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
-</div>
-</div>
 
 # Education
 
