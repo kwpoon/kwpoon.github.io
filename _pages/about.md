@@ -41,7 +41,7 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 Yinqiao Wang, **Hao Xu**, Chi-Wing Fu, Pheng-Ann Heng
 
-[Paper] \| [Video] \| [Code] \| [BibTex] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
