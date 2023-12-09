@@ -35,7 +35,7 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2024_SiMA/SiMA.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration**
+**SiMA-Hand: Boosting 3D Hand-Mesh Reconstruction by Single-to-Multi-view Adaptation**
 
 *The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024*
 
