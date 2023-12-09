@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao XU (徐昊)\n"
   avatar           : "images/xh.jpeg"
-  bio              : # "Harbin Institute of Technology (HIT)"
+  bio              : ""
   employer         :
   pubmed           : 
   email            : "xuhao@cse.cuhk.edu.hk"
