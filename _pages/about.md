@@ -22,12 +22,30 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 # News
 
+- *2023.12*: &nbsp; One paper is accepted to AAAI 2024.
 - *2023.07*: &nbsp; One paper is accepted to ICCV 2023.
 - *2023.03*: &nbsp; One paper is accepted to CVPR 2023.
 
 # Publications
 
 **2023**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_SiMA/SiMA.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration**
+
+*The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024*
+
+Yinqiao Wang, **Hao Xu**, Chi-Wing Fu, Pheng-Ann Heng
+
+[Paper] \| [Video] \| [Code] \| [BibTex] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+
 
 <!-- ######################################################### -->
 
@@ -72,7 +90,8 @@ Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* 
 
 **FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration**
 
-*Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022*
+<!-- *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022* -->
+*The 36th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2022*
 
 **Hao Xu**, Nianjin Ye, Guanghui Liu, Bing Zeng, Shuaicheng Liu
 
