@@ -39,7 +39,7 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 *The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024*
 
-Yinqiao Wang, **Hao Xu**, Chi-Wing Fu, Pheng-Ann Heng
+Yinqiao Wang, **Hao Xu**, Pheng-Ann Heng, Chi-Wing Fu
 
 Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
