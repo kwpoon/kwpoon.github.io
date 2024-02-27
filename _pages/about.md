@@ -22,13 +22,28 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 # News
 
+- *2024.03*: &nbsp; One paper is accepted to CVPR 2024.
 - *2023.12*: &nbsp; One paper is accepted to AAAI 2024.
 - *2023.07*: &nbsp; One paper is accepted to ICCV 2023.
 - *2023.03*: &nbsp; One paper is accepted to CVPR 2023.
 
 # Publications
 
-**2023**
+**2024**
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_HandBooster/HandBooster.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions**
+
+*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
+
+**Hao Xu**, Haipeng Li, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
+
+Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <!-- ######################################################### -->
 
@@ -41,10 +56,12 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 Yinqiao Wang, **Hao Xu**, Pheng-Ann Heng, Chi-Wing Fu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/pdf/2402.01389.pdf) \| [Video](https://youtu.be/5sul0NPcF3s) \| [Code](https://github.com/JoyboyWang/SiMA-Hand_Pytorch) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
+
+**2023**
 
 
 <!-- ######################################################### -->
