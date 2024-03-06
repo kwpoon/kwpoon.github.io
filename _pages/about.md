@@ -142,15 +142,15 @@ Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* 
 - *2019.09 - 2022.06*, M.Sc., University of Electronic Science and Technology of China (UESTC)
 - *2015.09 - 2019.06*, B.E., Sichuan University (SCU)
 
-# Experience
+<!-- # Experience
 
-- *2018.12 - 2022.06*, Intern, Megvii Research
+- *2018.12 - 2022.06*, Intern, Megvii Research -->
 
 <!-- # Academic Services
 - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
 - **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS) -->
 
-# Projects
+<!-- # Projects
 
 - *2018.12 - 2019.07, Driver Monitor System (DMS)*
 
@@ -168,4 +168,4 @@ Design a light-weighted end-to-end network running on an onboard chip to estimat
 
 <div>
        <video src='collections/Gaze/gaze_demo.mp4' controls="controls" width="30%" height="200px"></video>
-</div>
+</div> -->
