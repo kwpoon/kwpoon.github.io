@@ -136,11 +136,11 @@ Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* 
 </div>
 
 
-# Education
+<!-- # Education
 
 - *2022.08 - Present*, Ph.D. candidate, The Chinese University of Hong Kong (CUHK)
 - *2019.09 - 2022.06*, M.Sc., University of Electronic Science and Technology of China (UESTC)
-- *2015.09 - 2019.06*, B.E., Sichuan University (SCU)
+- *2015.09 - 2019.06*, B.E., Sichuan University (SCU) -->
 
 <!-- # Experience
 
