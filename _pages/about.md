@@ -41,7 +41,7 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 
 **Hao Xu**, Haipeng Li, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2403.18575) \| [Video](https://www.youtube.com/watch?v=Eg_LfnFef9g) \| [Code](https://github.com/hxwork/HandBooster_Pytorch) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -56,7 +56,7 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 
 Yinqiao Wang, **Hao Xu**, Pheng-Ann Heng, Chi-Wing Fu
 
-[Paper](https://arxiv.org/pdf/2402.01389.pdf) \| [Video](https://youtu.be/5sul0NPcF3s) \| [Code](https://github.com/JoyboyWang/SiMA-Hand_Pytorch) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/pdf/2402.01389.pdf) \| [Video](https://youtu.be/5sul0NPcF3s) \| [Code](https://github.com/JoyboyWang/SiMA-Hand_Pytorch) \| [BibTex](collections/2024_SiMA/SiMA.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
