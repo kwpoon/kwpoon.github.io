@@ -18,7 +18,7 @@ redirect_from:
 
 # About Me
 
-I am a second-year Ph.D. student at the CSE Department, the Chinese University of Hong Kong (CUHK), supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/). I received my Master's degree at the School of Information and Communication Engineering from the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/). Before that, I got my Bachelor's degree from Sichuan University (SCU). My research interests include 3D registration, 3D point cloud representation, and 3D hand mesh reconstruction.
+I am currently a Ph.D. student at the Department of Computer Science and Engineering at the Chinese University of Hong Kong (CUHK), supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/). My research interests mainly focus on robotic manipulation and 3D visual perception. I received my Master’s degree at Sun Yat-sen University (SYSU), where I was supervised by [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/) and worked on video-based human action assessment. Before that, I completed my Bachelor’s degree also at Sun Yat-sen University (SYSU).
 
 # News
 
@@ -30,16 +30,16 @@ I am a second-year Ph.D. student at the CSE Department, the Chinese University o
 **2024**
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_PointGPT/PointGPT.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2024_PPN_Pack/PPN_Pack.png' alt="sym" width="20%"></div>
 <div class='paper-box-text' markdown="1">
 
-**PointGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**
+**PPN-Pack: Placement Proposal Network for Efficient Robotic Bin Packing**
 
-*IEEE/CVF European Conference on Computer Vision (**ECCV**), 2024*
+*IEEE Robotics and Automation Letters (**RA-L**), vol. 9, no. 6, pp. 5086-5093, 2024*
 
-Suyi Chen, **Hao Xu**, Haipeng Li, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
+**Jia-Hui Pan**, Xiaojie Gao, Ka-Hei Hui, Shize Zhu, Yun-Hui Liu, Pheng-Ann Heng, and Chi-Wing Fu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/document/10493124/) \| Video \| [Code](https://github.com/kwpoon/PPN-Pack) \| BibTex <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
 </div>
 </div>
 
