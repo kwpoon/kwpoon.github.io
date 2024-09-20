@@ -77,6 +77,6 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 
 # Education
 
-- *08/2021 ~ Present*, Ph.D. Student, The Chinese University of Hong Kong (CUHK)
-- *2019.09 - 2022.06*, M.Phil., Sun Yat-sen University (SYSU)
-- *2015.09 - 2019.06*, B.Sc., Sun Yat-sen University (SYSU)
+- *2021.08 ~ Present*, Ph.D. Student, The Chinese University of Hong Kong (CUHK)
+- *2018.09 - 2021.06*, M.Phil., Sun Yat-sen University (SYSU)
+- *2014.09 - 2018.06*, B.Sc., Sun Yat-sen University (SYSU)
