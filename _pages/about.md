@@ -25,7 +25,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 **2024**
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='../collections/2024_PPN_Pack/PPN_Pack.png' alt="sym" width="20%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2024_PPN_Pack/PPN_Pack.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **PPN-Pack: Placement Proposal Network for Efficient Robotic Bin Packing**
@@ -43,7 +43,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='../collections/2023_SDF_Pack/SDF_pack.png' alt="sym" width="20%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2023_SDF_Pack/SDF_pack.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SDF-Pack: Towards Compact Bin Packing with Signed-Distance-Field Minimization**
@@ -61,7 +61,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='../collections/2021_Adaptive_ASS/Adaptive_ASS.png' alt="sym" width="20%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2021_Adaptive_ASS/Adaptive_ASS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 ** Adaptive Action Assessment **
