@@ -25,7 +25,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 - *2024.07*: &nbsp; One paper is accepted to ECCV 2024.
 - *2024.03*: &nbsp; One paper is accepted to CVPR 2024.
 
-# Publications
+# Selected Publications
 
 **2024**
 <!-- ######################################################### -->
@@ -39,59 +39,27 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 
 **Jia-Hui Pan**, Xiaojie Gao, Ka-Hei Hui, Shize Zhu, Yun-Hui Liu, Pheng-Ann Heng, and Chi-Wing Fu
 
-[Paper](https://ieeexplore.ieee.org/document/10493124/) \| Video \| [Code](https://github.com/kwpoon/PPN-Pack) \| BibTex <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/document/10493124/) \| Video \| [Code](https://github.com/kwpoon/PPN-Pack) \| [BibTex](collections/2024_PPN_Pack/PPN_Pack.md) <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
 </div>
 </div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_HandBooster/HandBooster.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions**
-
-*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
-
-**Hao Xu**, Haipeng Li, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
-
-[Paper](https://arxiv.org/abs/2403.18575) \| [Video](https://www.youtube.com/watch?v=Eg_LfnFef9g) \| [Code](https://github.com/hxwork/HandBooster_Pytorch) \| [BibTex](collections/2024_HandBooster/HandBooster.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_SiMA/SiMA.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**SiMA-Hand: Boosting 3D Hand-Mesh Reconstruction by Single-to-Multi-view Adaptation**
-
-*The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024*
-
-Yinqiao Wang, **Hao Xu**, Pheng-Ann Heng, Chi-Wing Fu
-
-[Paper](https://arxiv.org/pdf/2402.01389.pdf) \| [Video](https://youtu.be/5sul0NPcF3s) \| [Code](https://github.com/JoyboyWang/SiMA-Hand_Pytorch) \| [BibTex](collections/2024_SiMA/SiMA.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
 
 **2023**
 
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_SIRA/SIRA.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='..collections/2023_SDF_Pack/SDF_PACK.png' alt="sym" width="10%"></div>
 <div class='paper-box-text' markdown="1">
 
-**SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration**
+**SDF-Pack: Towards Compact Bin Packing with Signed-Distance-Field Minimization**
 
-*IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (**IROS**), 2023*
 
-Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* Joint first author)
+**Jia-Hui Pan**, Ka-Hei Hui, Xiaojie Gao, Shize Zhu, Yun-Hui Liu, Pheng-Ann Heng, and Chi-Wing Fu
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://youtu.be/TJfONIn5p_k) \| [Code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](collections/2023_SIRA/SIRA.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10341940) \| Video \| [Code](https://github.com/kwpoon/SDF-Pack) \| [BibTex](collections/2023_SDF_Pack/SDF_Pack.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
-
 
 
 <!-- ######################################################### -->
@@ -99,13 +67,13 @@ Suyi Chen\*, **Hao Xu**\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (\* 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023_H2ONet/H2ONet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**H2ONet: Hand-Occlusion-and-Orientation-aware Network for Real-time 3D Hand Mesh Reconstruction**
+**  **
 
 *IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023*
 
 **Hao Xu**, Tianyu Wang, Xiao Tang, Chi-Wing Fu
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_H2ONet_Hand-Occlusion-and-Orientation-Aware_Network_for_Real-Time_3D_Hand_Mesh_Reconstruction_CVPR_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=JN-G8ePC3Mk) \| [Code](https://github.com/hxwork/H2ONet_Pytorch) \| [BibTex](collections/2023_H2ONet/H2ONet.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9609694) \| [Code](https://github.com/Jia-Hui-Pan/Adaptive_Action_Assessment) \| [BibTex](collections/2023_H2ONet/H2ONet.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
