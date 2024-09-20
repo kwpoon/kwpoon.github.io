@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao XU"
+title                    : "Jia-Hui Pan"
 description              : # "Harbin Institute of Technology (HIT)"
 google_scholar_stats_use_cdn : true
 
@@ -20,13 +20,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hao XU (徐昊)\n"
-  avatar           : "images/xh.jpeg"
+  name             : "Jia-Hui Pan (潘嘉慧)\n"
+  avatar           : "images/jiahui2.png"
   bio              : ""
   employer         :
   pubmed           : 
-  email            : "xuhao@cse.cuhk.edu.hk"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=M7qfdFwAAAAJ&hl"
+  email            : "panjh@link.cuhk.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=c0UQD6oAAAAJ&hl=zh-CN"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -35,7 +35,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hxwork"
+  github           : "kwpoon"
   location         : "Hong Kong SAR"
   google_plus      :
   keybase          :
