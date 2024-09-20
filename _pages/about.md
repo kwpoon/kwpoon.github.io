@@ -64,7 +64,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 <div class='paper-box'><div class='paper-box-image'><img src='../collections/2021_Adaptive_ASS/Adaptive_ASS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-** Adaptive Action Assessment **
+**Adaptive Action Assessment**
 
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021*
 
