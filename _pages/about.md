@@ -30,7 +30,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 **2024**
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='../collections/' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2024_Embodiment_Agnostic/Embodiment_Agnostic.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Embodiment-agnostic Action Planning via Object-Part Scene Flow**
