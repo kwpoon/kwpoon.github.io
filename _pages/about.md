@@ -94,6 +94,23 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 </div>
 </div>
 
+**2019**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2021_Adaptive_ASS/Adaptive_ASS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Action assessment by joint relation graphs**
+
+*IEEE/CVF International Conference on Computer Vision (**ICCF**), (Oral) 2019*
+
+**Jia-Hui Pan**, Jibin Gao, and Wei-Shi Zheng
+
+[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Action_Assessment_by_Joint_Relation_Graphs_ICCV_2019_paper.pdf) \| [Code](https://github.com/Jia-Hui-Pan/Adaptive_Action_Assessment) \| [BibTex](collections/) <strong><span class='show_paper_citations' data=''></span></strong>
+</div>
+</div>
+
 
 # Education
 
