@@ -68,7 +68,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 
 **SDF-Pack: Towards Compact Bin Packing with Signed-Distance-Field Minimization**
 
-*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (**IROS**), 2023*
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023*
 
 **Jia-Hui Pan**, Ka-Hei Hui, Xiaojie Gao, Shize Zhu, Yun-Hui Liu, Pheng-Ann Heng, and Chi-Wing Fu
 
@@ -103,7 +103,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 
 **Action assessment by joint relation graphs**
 
-*IEEE/CVF International Conference on Computer Vision (**ICCF**), (Oral) 2019*
+*IEEE/CVF International Conference on Computer Vision (**ICCV**), (Oral) 2019*
 
 **Jia-Hui Pan**, Jibin Gao, and Wei-Shi Zheng
 
