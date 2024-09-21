@@ -72,7 +72,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 
 **Jia-Hui Pan**, Ka-Hei Hui, Xiaojie Gao, Shize Zhu, Yun-Hui Liu, Pheng-Ann Heng, and Chi-Wing Fu
 
-[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10341940) \| Video \| [Code](https://github.com/kwpoon/SDF-Pack) \| [BibTex](collections/2023_SDF_Pack/SDF_Pack.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10341940) \| [Video](https://youtu.be/HkjEjzviaCY) \| [Code](https://github.com/kwpoon/SDF-Pack) \| [BibTex](collections/2023_SDF_Pack/SDF_Pack.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
