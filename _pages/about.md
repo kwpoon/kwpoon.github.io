@@ -18,7 +18,7 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student at the Department of Computer Science and Engineering at the Chinese University of Hong Kong (CUHK), supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/). My research interests mainly focus on robotic manipulation and 3D visual perception. I received my Master’s degree at Sun Yat-sen University (SYSU), where I was supervised by [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/) and worked on video-based human action assessment. Before that, I completed my Bachelor’s degree also at Sun Yat-sen University (SYSU).
+I am currently a Ph.D. student at the Department of Computer Science and Engineering at the Chinese University of Hong Kong (CUHK), supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/). My research interests mainly focus on robotic manipulation and 3D visual perception. I received my Master’s degree and Bachelor’s degree at Sun Yat-sen University (SYSU), where I was supervised by [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/) and worked on video-based human action assessment.
 
 # News
 
