@@ -98,7 +98,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='../collections/2021_Adaptive_ASS/Adaptive_ASS.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2019_JRG_ASS/JRG_ASS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Action assessment by joint relation graphs**
