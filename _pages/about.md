@@ -39,7 +39,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 
 **Jia-Hui Pan**, Xiaojie Gao, Ka-Hei Hui, Shize Zhu, Yun-Hui Liu, Pheng-Ann Heng, and Chi-Wing Fu
 
-[Paper](https://ieeexplore.ieee.org/document/10493124/) \| [Video]([https://drive.google.com/file/d/12TiqeyJvwRdbKZM15q4LcDPHUSjtCupv/view?usp=sharing](https://youtu.be/uy6tYh9-J4M)) \| [Code](https://github.com/kwpoon/PPN-Pack) \| [BibTex](collections/2024_PPN_Pack/PPN_Pack.md) <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/document/10493124/) \| [Video](https://youtu.be/uy6tYh9-J4M)) \| [Code](https://github.com/kwpoon/PPN-Pack) \| [BibTex](collections/2024_PPN_Pack/PPN_Pack.md) <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
 </div>
 </div>
 
