@@ -90,7 +90,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 
 **Jia-Hui Pan**, Jibin Gao, and Wei-Shi Zheng
 
-[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9609694) \| [Code](https://github.com/Jia-Hui-Pan/Adaptive_Action_Assessment) \| [BibTex](collections/2023_H2ONet/H2ONet.md) <strong><span class='show_paper_citations' data=''></span></strong>
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9609694) \| [Code](https://github.com/Jia-Hui-Pan/Adaptive_Action_Assessment) \| [BibTex](../collections/2021_Adaptive_ASS/Adaptive_ASS.md) <strong><span class='show_paper_citations' data=''></span></strong>
 </div>
 </div>
 
@@ -107,7 +107,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 
 **Jia-Hui Pan**, Jibin Gao, and Wei-Shi Zheng
 
-[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Action_Assessment_by_Joint_Relation_Graphs_ICCV_2019_paper.pdf) \| [Code](https://github.com/Jia-Hui-Pan/Adaptive_Action_Assessment) \| [BibTex](collections/) <strong><span class='show_paper_citations' data=''></span></strong>
+[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Action_Assessment_by_Joint_Relation_Graphs_ICCV_2019_paper.pdf) \| [Code](https://github.com/Jia-Hui-Pan/Adaptive_Action_Assessment) \| [BibTex](../collections/2019_JRG_ASS/JRG_ASS.md) <strong><span class='show_paper_citations' data=''></span></strong>
 </div>
 </div>
 
