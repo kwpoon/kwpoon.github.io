@@ -30,6 +30,21 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 **2024**
 <!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Embodiment-agnostic Action Planning via Object-Part Scene Flow**
+
+*ArXiv, 2024*
+
+Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu, Masayoshi Tomizuka, Mingyu Ding, and Chi-Wing Fu
+
+[Paper](https://arxiv.org/pdf/2409.10032) \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
 <div class='paper-box'><div class='paper-box-image'><img src='../collections/2024_PPN_Pack/PPN_Pack.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
