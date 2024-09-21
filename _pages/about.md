@@ -54,7 +54,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 
 **Jia-Hui Pan**, Xiaojie Gao, Ka-Hei Hui, Shize Zhu, Yun-Hui Liu, Pheng-Ann Heng, and Chi-Wing Fu
 
-[Paper](https://ieeexplore.ieee.org/document/10493124/) \| [Video](https://youtu.be/uy6tYh9-J4M)) \| [Code](https://github.com/kwpoon/PPN-Pack) \| [BibTex](collections/2024_PPN_Pack/PPN_Pack.md) <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/document/10493124/) \| [Video](https://youtu.be/uy6tYh9-J4M) \| [Code](https://github.com/kwpoon/PPN-Pack) \| [BibTex](collections/2024_PPN_Pack/PPN_Pack.md) <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
 </div>
 </div>
 
