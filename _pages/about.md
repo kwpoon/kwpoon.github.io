@@ -25,6 +25,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 - *2024.03*: &nbsp; One paper is accepted to RA-L 2024.
 - *2023.07*: &nbsp; One paper is accepted to IROS 2023.
 
+<span class='anchor' id='selected-publications'></span>
 # Selected Publications
 
 **2024**
