@@ -11,6 +11,10 @@ main:
 
   - title: "Education"
     url: "/#education"
+
+  
+  - title: "CV"
+    url: "./collections/CV.pdf"
     
   # title: "Experience"
   #  url: "/#experience"
