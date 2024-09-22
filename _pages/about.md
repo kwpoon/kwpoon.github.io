@@ -116,5 +116,5 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 # Education
 
 - *2021.08 ~ Present*, Ph.D. Student, The Chinese University of Hong Kong (CUHK)
-- *2018.09 - 2021.06*, M.Phil., Sun Yat-sen University (SYSU)
-- *2014.09 - 2018.06*, B.Sc., Sun Yat-sen University (SYSU)
+- *2018.08 - 2021.06*, M.Phil., Sun Yat-sen University (SYSU)
+- *2014.08 - 2018.06*, B.Sc., Sun Yat-sen University (SYSU)
