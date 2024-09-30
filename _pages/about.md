@@ -34,7 +34,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 <div class='paper-box'><div class='paper-box-image'><img src='../collections/2024_Embodiment_Agnostic/Embodiment_Agnostic.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Embodiment-agnostic Action Planning via Object-Part Scene Flow**
+**Embodiment-Agnostic Action Planning via Object-Part Scene Flow**
 
 *ArXiv, 2024*
 
@@ -102,7 +102,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 <div class='paper-box'><div class='paper-box-image'><img src='../collections/2019_JRG_ASS/JRG_ASS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Action assessment by joint relation graphs**
+**Action Assessment by Joint Relation Graphs**
 
 *IEEE/CVF International Conference on Computer Vision (**ICCV**), (Oral) 2019*
 
