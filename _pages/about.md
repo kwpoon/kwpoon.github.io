@@ -36,7 +36,7 @@ I am currently a Ph.D. student at the Department of Computer Science and Enginee
 
 **Embodiment-Agnostic Action Planning via Object-Part Scene Flow**
 
-*ArXiv, 2024*
+*IEEE International Conference on Robotics and Automation (**ICRA**), 2025*
 
 Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu, Masayoshi Tomizuka, Mingyu Ding, and Chi-Wing Fu
 
