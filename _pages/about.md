@@ -18,10 +18,13 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student at the Department of Computer Science and Engineering at the Chinese University of Hong Kong (CUHK), supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/). My research interests mainly focus on robotic manipulation and 3D visual perception. I received my Master’s degree and Bachelor’s degree at Sun Yat-sen University (SYSU), where I was supervised by [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/) and worked on video-based human action assessment.
+I am a final-year Ph.D. student at the Department of Computer Science and Engineering at the Chinese University of Hong Kong (CUHK), supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/), working with [Prof. Yun-Hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) via the [Hong Kong Centre for Logistics Robotics](https://www.hkclr.hk/zh-HK). My research interests mainly focus on robotic manipulation. I'm also fortunate to work remotely with [Prof. Mingyu Ding](https://dingmyu.github.io/) from University of North Carolina at Chapel Hill. I received my Master’s degree and Bachelor’s degree at Sun Yat-sen University (SYSU), where I was supervised by [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/) and worked on video-based human action assessment.
 
 # News
 
+- *2026.04*: &nbsp; One paper is conditionally accepted to T-RO.
+- *2025.01*: &nbsp; One paper is accepted to CVPR 2026.
+- *2025.01*: &nbsp; One paper is accepted to ICRA 2025.
 - *2024.03*: &nbsp; One paper is accepted to RA-L 2024.
 - *2023.07*: &nbsp; One paper is accepted to IROS 2023.
 
