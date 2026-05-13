@@ -30,9 +30,22 @@ I am a final-year Ph.D. student at the Department of Computer Science and Engine
 <span class='anchor' id='selected-publications'></span>
 # Selected Publications
 
+**2025**
+<!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2025_OPA/OPA_Pack.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
-**2024**
+**OPA-Pack: Object-Property-Aware Robotic Bin Packing**
+
+*In Revsion (**T-RO**), 2025*
+
+**Jia-Hui Pan**, Yeok Tatt Cheah, Zhengzhe Liu, Ka-Hei Hui, Xiaojie Gao, Pheng-Ann Heng, Yun-Hui Liu, Chi-Wing Fu
+
+[Paper]\| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
+</div>
+</div>
+
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='../collections/2024_Embodiment_Agnostic/Embodiment_Agnostic.png' alt="sym" width="100%"></div>
@@ -48,6 +61,7 @@ Weiliang Tang, **Jia-Hui Pan**, Wei Zhan, Jianshu Zhou, Huaxiu Yao, Yun-Hui Liu,
 </div>
 </div>
 
+**2024**
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='../collections/2024_PPN_Pack/PPN_Pack.png' alt="sym" width="100%"></div>
