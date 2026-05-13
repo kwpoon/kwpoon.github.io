@@ -22,8 +22,8 @@ I am a final-year Ph.D. student at the Department of Computer Science and Engine
 
 # News
 
-- *2026.04*: &nbsp; One paper is conditionally accepted to T-RO.
-- *2025.01*: &nbsp; One paper is accepted to CVPR 2026.
+- *2026.02*: &nbsp; One paper is accepted to CVPR 2026.
+- *2026.01*: &nbsp; One paper is conditionally accepted to T-RO.
 - *2025.01*: &nbsp; One paper is accepted to ICRA 2025.
 - *2024.03*: &nbsp; One paper is accepted to RA-L 2024.
 - *2023.07*: &nbsp; One paper is accepted to IROS 2023.
