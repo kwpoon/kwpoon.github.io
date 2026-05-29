@@ -33,7 +33,7 @@ I am a final-year Ph.D. student at the Department of Computer Science and Engine
 **2025**
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='../collections/2025_OPA/OPA_Pack.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2025_OPA_Pack/OPA_Pack.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **OPA-Pack: Object-Property-Aware Robotic Bin Packing**
