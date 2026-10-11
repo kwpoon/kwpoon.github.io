@@ -33,17 +33,16 @@ I am a final-year Ph.D. student at the Department of Computer Science and Engine
 **2025**
 <!-- ######################################################### -->
 
-<!--<div class='paper-box'><div class='paper-box-image'><img src='../collections/2025_OPA_Pack/OPA_Pack.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../collections/2025_OPA_Pack/OPA_Pack.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **OPA-Pack: Object-Property-Aware Robotic Bin Packing**
 
-*Conditionally Accepted (**T-RO**), 2025*
+*Accepted IEEE Transactions on Robotics (**T-RO**), 2026*
 
 **Jia-Hui Pan**, Yeok Tatt Cheah, Zhengzhe Liu, Ka-Hei Hui, Xiaojie Gao, Pheng-Ann Heng, Yun-Hui Liu, Chi-Wing Fu
 
 [Paper]\| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='c0UQD6oAAAAJ:W7OEmFMy1HYC'></span></strong>
-</div>
 </div>
 </div>
 
